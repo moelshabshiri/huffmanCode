@@ -1,0 +1,12 @@
+﻿  Source.cpp
+C:\Users\Mohamed\source\repos\321BonusA\321BonusA\Source.cpp(100,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mohamed\source\repos\321BonusA\321BonusA\Source.cpp(110,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mohamed\source\repos\321BonusA\321BonusA\Source.cpp(112,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mohamed\source\repos\321BonusA\321BonusA\Source.cpp(140,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mohamed\source\repos\321BonusA\321BonusA\Source.cpp(166,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mohamed\source\repos\321BonusA\321BonusA\Source.cpp(233,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mohamed\source\repos\321BonusA\321BonusA\Source.cpp(243,20): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Mohamed\source\repos\321BonusA\321BonusA\Source.cpp(246,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mohamed\source\repos\321BonusA\321BonusA\Source.cpp(291,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mohamed\source\repos\321BonusA\321BonusA\Source.cpp(330,20): warning C4018: '<': signed/unsigned mismatch
+  321BonusA.vcxproj -> C:\Users\Mohamed\source\repos\321BonusA\Debug\321BonusA.exe
